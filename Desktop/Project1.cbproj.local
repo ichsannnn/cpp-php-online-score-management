@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/04/18 13:48:05.000.736,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/04/18 13:48:05.000.641,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/04/18 14:37:40.000.669,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/04/18 14:37:40.000.587,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/04/18 14:49:18.000.056,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.h=F:\C++\Aplikasi Visual\Pengelola Nilai\Unit1.h</Transaction>
+    <Transaction>2015/04/18 14:49:18.000.056,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp=F:\C++\Aplikasi Visual\Pengelola Nilai\Unit1.cpp</Transaction>
+    <Transaction>2015/04/18 14:49:18.000.056,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\C++\Aplikasi Visual\Pengelola Nilai\Unit1.dfm</Transaction>
+    <Transaction>2015/04/18 14:49:20.000.050,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=F:\C++\Aplikasi Visual\Pengelola Nilai\Project1PCH1.h</Transaction>
+    <Transaction>2015/04/18 14:49:21.000.948,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1.cbproj=F:\C++\Aplikasi Visual\Pengelola Nilai\Project1.cbproj</Transaction>
+    <Transaction>2015/04/18 19:43:22.000.079,=F:\C++\Aplikasi Visual\Pengelola Nilai\Unit2.cpp</Transaction>
+    <Transaction>2015/04/19 08:53:16.000.120,=F:\C++\Aplikasi Visual\Pengelola Nilai\Unit3.cpp</Transaction>
+    <Transaction>2015/04/20 13:45:28.000.504,=F:\C++\Aplikasi Visual\OSM\Unit4.cpp</Transaction>
+    <Transaction>2015/04/20 22:11:48.000.339,=F:\C++\Aplikasi Visual\OSM\Unit5.cpp</Transaction>
+    <Transaction>2015/04/21 06:52:29.000.038,=F:\C++\Aplikasi Visual\OSM\Unit6.cpp</Transaction>
+    <Transaction>2015/04/23 14:00:31.000.582,=F:\C++\Aplikasi Visual\OSM\Unit7.cpp</Transaction>
+    <Transaction>2015/04/29 08:10:38.000.786,=F:\C++\Aplikasi Visual\OSM\Unit8.cpp</Transaction>
+    <Transaction>2015/05/08 12:53:21.000.320,=F:\C++\Aplikasi Visual\OSM\Unit9.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

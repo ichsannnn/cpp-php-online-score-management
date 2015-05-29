@@ -1,0 +1,70 @@
+*{
+margin:0;
+text-decoration: none;
+font-size: 14pt !important;
+}
+table {
+border-width:1;
+border-collapse:collapse;
+font-family:"Open Sans";
+font-size:12px;
+width:100%;
+}
+table thead th, table tbody th {
+text-align: center;
+border-collapse:collapse;
+border:1px solid #2d89ef;
+}
+table tbody th {
+text-align:center;
+border:1px solid #2d89ef;
+}
+table tbody td {
+padding: 5px;
+vertical-align:bottom;
+border:1px solid #2d89ef;
+}
+.menu-child{
+display: inline-block;
+text-decoration: none;
+font-family: "Segoe UI";
+font-size: 14pt;
+padding: 12px;
+color: white;
+}
+.menu-parent{
+width:1000px;
+height:45px;
+background-color: #2d89ef;
+margin: 10px auto;
+border: 1px solid #2d89ef;
+}
+button,.button{
+border-radius: 3px;
+border:1px solid #2d89ef;
+padding: 5px;
+font-family: "Open Sans";
+box-shadow: inset 1px 1px 10px 1px #2d89ef;
+background: #2d89ef;
+cursor: pointer;
+color: white;
+font-size: 14pt !important;
+}
+input,select,textarea{
+width:98%;
+font-family: "Open Sans";
+font-size: 14pt !important;
+padding: 5px;
+border-radius: 3px;
+box-shadow: inset 1px 1px 50px 1px #2d89ef;
+border:0;
+font-size: 14pt !important;
+}
+select{
+width:99%;
+font-size: 14pt !important;
+}
+.container{
+width:1000px;
+margin:0 auto;
+}

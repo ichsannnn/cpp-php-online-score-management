@@ -1,0 +1,303 @@
+/*	Fonts	*/
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url(../font/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+	font-family: "FontAwesome";
+	src: url(../font/FontAwesome.otf);
+}
+
+@font-face {
+	font-family: "Skinz";
+	src: url(../font/Skinz.ttf);
+}
+
+@font-face {
+	font-family: "Rancho";
+	src: url(../font/Rancho.ttf);
+}
+
+/*****************/
+
+a {
+	text-decoration: none;
+}
+
+body {
+	background-color: #f0f2f5;
+	font-family: "Ubuntu";
+}
+form {
+	margin: 0px;
+}
+
+tr, td, th {
+	border: 1px solid #000;
+	padding: 5px;
+	text-align: center;
+}
+
+.rapot {
+	border-collapse: collapse;
+	border-color: solid #000;
+	width:100%;
+	margin-top:25px
+}
+
+.mapel {
+	text-align: left;
+}
+
+.desc {
+	border: 1px solid #fff;
+}
+.tr1, .td1{
+	border:transparent;
+	text-align: left;
+}
+/*	Normal	*/
+.search {
+	padding: 50px;
+	text-align: center;
+}
+
+.navbar {
+	width: 100%;
+	height: 85px;
+	padding-top: 15px;
+	background-color: #ed5565;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	color: white;
+	text-align: center;
+}
+
+.container {
+	margin-top: 110px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	background-color: #ffffff;
+	width: auto;
+	height: auto;
+}
+
+.footer {
+	width: 100%;
+	height: 30px;
+	background-color: #ed5565;
+	margin-top: 10px;
+	left: 0px;
+	text-align: center;
+	color: white;
+	font-size: 14pt;
+	padding-top: 5px;
+}
+
+.text {
+	font-size: 20pt;
+	width: 100%;
+}
+
+.text-navbar-rapot {
+	color: #4fc0e8;
+}
+
+.text-navbar-online {
+	color: #a0d468;
+}
+
+.button {
+	margin-top: 5px;
+	width: 30%;
+	height: 30px;
+	background-color: #4fc0e8;
+	border: 1px solid #4fc0e8;
+	color: white;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: all 0.5s;
+}
+
+.button:hover {
+	background-color: #a0d468;
+	border: 1px solid #a0d468;
+	transition: all 0.5s;
+}
+
+.edit {
+	width: 50%;
+	margin-bottom: 5px;
+	height: 30px;
+	border: 2px solid #4fc0e8;
+	border-radius: 5px;
+	color: #a4a9ae;
+	padding-left: 5px;
+	transition: all 0.5s;
+}
+
+.edit:focus {
+	border: 2px solid #a0d468;
+	transition: all 0.5s;
+}
+
+/*	Responsive 1	*/
+@media (min-width: 801px) and (max-width: 1353px) {
+	.search {
+		padding-top: 180px;
+	}
+
+	.navbar {
+		width: 100%;
+		height: 85px;
+		padding-top: 15px;
+		background-color: #ed5565;
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		color: white;
+		text-align: center;
+	}
+
+	.footer {
+		width: 100%;
+		height: 30px;
+		background-color: #ed5565;
+		margin-top: 10px;
+		left: 0px;
+		text-align: center;
+		color: white;
+		font-size: 14pt;
+		padding-top: 5px;
+	}
+
+	.text {
+		font-size: 20pt;
+		width: 100%;
+	}
+
+	.text-navbar-rapot {
+		color: #4fc0e8;
+	}
+
+	.text-navbar-online {
+		color: #a0d468;
+	}
+
+	.button {
+		margin-top: 5px;
+		width: 40%;
+		height: 30px;
+		background-color: #4fc0e8;
+		border: 1px solid #4fc0e8;
+		color: white;
+		border-radius: 5px;
+		cursor: pointer;
+		transition: all 0.5s;
+	}
+
+	.button:hover {
+		background-color: #a0d468;
+		border: 1px solid #a0d468;
+		transition: all 0.5s;
+	}
+
+	.edit {
+		width: 60%;
+		height: 30px;
+		border: 2px solid #4fc0e8;
+		border-radius: 5px;
+		color: #a4a9ae;
+		padding-left: 5px;
+		transition: all 0.5s;
+	}
+
+	.edit:focus {
+		border: 2px solid #a0d468;
+		transition: all 0.5s;
+	}
+}
+/*****************/
+
+
+/*	Responsive 2	*/
+@media only screen and (max-width:800px) {
+	.search {
+		padding-top: 180px;
+	}
+
+	.navbar {
+		width: 100%;
+		height: 85px;
+		padding-top: 15px;
+		background-color: #ed5565;
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		color: white;
+		text-align: center;
+	}
+
+	.footer {
+		width: 100%;
+		height: 30px;
+		background-color: #ed5565;
+		margin-top: 10px;
+		left: 0px;
+		text-align: center;
+		color: white;
+		font-size: 14pt;
+		padding-top: 5px;
+	}
+
+	.text {
+		font-size: 20pt;
+		width: 100%;
+	}
+
+	.text-navbar-rapot {
+		color: #4fc0e8;
+	}
+
+	.text-navbar-online {
+		color: #a0d468;
+	}
+
+	.button {
+		margin-top: 5px;
+		width: 70%;
+		height: 30px;
+		background-color: #4fc0e8;
+		border: 1px solid #4fc0e8;
+		color: white;
+		border-radius: 5px;
+		cursor: pointer;
+		transition: all 0.5s;
+	}
+
+	.button:hover {
+		background-color: #a0d468;
+		border: 1px solid #a0d468;
+		transition: all 0.5s;
+	}
+
+	.edit {
+		width: 90%;
+		height: 30px;
+		border: 2px solid #4fc0e8;
+		border-radius: 5px;
+		color: #a4a9ae;
+		padding-left: 5px;
+		transition: all 0.5s;
+	}
+
+	.edit:focus {
+		border: 2px solid #a0d468;
+		transition: all 0.5s;
+	}
+}

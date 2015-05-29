@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/04/19 21:06:46.000.213,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/04/19 21:06:46.000.254,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/04/20 23:58:42.000.542,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/04/20 23:58:42.000.469,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/04/29 06:50:07.000.195,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/04/29 06:50:07.000.010,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/05/15 03:28:57.000.671,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/05/15 03:28:57.000.473,=C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/05/15 03:39:37.000.056,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\C++\Aplikasi Visual\OSMv1\Updater\Unit1.dfm</Transaction>
+    <Transaction>2015/05/15 03:39:37.000.056,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.cpp=F:\C++\Aplikasi Visual\OSMv1\Updater\Unit1.cpp</Transaction>
+    <Transaction>2015/05/15 03:39:37.000.056,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Unit1.h=F:\C++\Aplikasi Visual\OSMv1\Updater\Unit1.h</Transaction>
+    <Transaction>2015/05/15 03:39:42.000.944,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=F:\C++\Aplikasi Visual\OSMv1\Updater\Project1PCH1.h</Transaction>
+    <Transaction>2015/05/15 03:39:49.000.257,C:\Users\Ichsan\Documents\Embarcadero\Studio\Projects\Project1.cbproj=F:\C++\Aplikasi Visual\OSMv1\Updater\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

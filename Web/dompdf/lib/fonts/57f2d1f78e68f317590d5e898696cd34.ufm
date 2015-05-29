@@ -1,0 +1,84 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright GeronimoFonts 2015
+FontName Skinz
+FontSubfamily Regular
+UniqueID FontStruct Skinz
+FullName Skinz Regular
+Version Version 1.0
+PostScriptName Skinz
+Trademark FontStruct is a trademark of FSI FontShop International GmbH
+Manufacturer http://fontstruct.com
+Designer GeronimoFonts
+Description ‚ÄúSkinz‚Äù was built with FontStruct
+FontVendorURL http://www.fontshop.com
+FontDesignerURL http://fontstruct.com/fontstructions/show/1115901
+LicenseDescription FontStruct Non-Commercial License
+SampleText Five big quacking zephyrs jolt my wax bed
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition 100
+FontHeightOffset 0
+Ascender 875
+Descender -250
+FontBBox 0 -250 1375 875
+StartCharMetrics 56
+U 32 ; WX 625 ; N space ; G 3
+U 65 ; WX 1375 ; N A ; G 4
+U 66 ; WX 1375 ; N B ; G 5
+U 67 ; WX 1375 ; N C ; G 6
+U 68 ; WX 1375 ; N D ; G 7
+U 69 ; WX 1375 ; N E ; G 8
+U 70 ; WX 1375 ; N F ; G 9
+U 71 ; WX 1375 ; N G ; G 10
+U 72 ; WX 1375 ; N H ; G 11
+U 73 ; WX 375 ; N I ; G 12
+U 74 ; WX 1375 ; N J ; G 13
+U 75 ; WX 1375 ; N K ; G 14
+U 76 ; WX 1375 ; N L ; G 15
+U 77 ; WX 1500 ; N M ; G 16
+U 78 ; WX 1375 ; N N ; G 17
+U 79 ; WX 1375 ; N O ; G 18
+U 80 ; WX 1375 ; N P ; G 19
+U 81 ; WX 1375 ; N Q ; G 20
+U 82 ; WX 1375 ; N R ; G 21
+U 83 ; WX 1375 ; N S ; G 22
+U 84 ; WX 1375 ; N T ; G 23
+U 85 ; WX 1375 ; N U ; G 24
+U 86 ; WX 1375 ; N V ; G 25
+U 87 ; WX 1375 ; N W ; G 26
+U 88 ; WX 1375 ; N X ; G 27
+U 89 ; WX 1375 ; N Y ; G 28
+U 90 ; WX 1375 ; N Z ; G 29
+U 97 ; WX 1375 ; N a ; G 30
+U 98 ; WX 1375 ; N b ; G 31
+U 99 ; WX 1375 ; N c ; G 32
+U 100 ; WX 1375 ; N d ; G 33
+U 101 ; WX 1375 ; N e ; G 34
+U 102 ; WX 1375 ; N f ; G 35
+U 103 ; WX 1375 ; N g ; G 36
+U 104 ; WX 1375 ; N h ; G 37
+U 105 ; WX 375 ; N i ; G 38
+U 106 ; WX 1375 ; N j ; G 39
+U 107 ; WX 1375 ; N k ; G 40
+U 108 ; WX 1375 ; N l ; G 41
+U 109 ; WX 1500 ; N m ; G 42
+U 110 ; WX 1375 ; N n ; G 43
+U 111 ; WX 1375 ; N o ; G 44
+U 112 ; WX 1375 ; N p ; G 45
+U 113 ; WX 1375 ; N q ; G 46
+U 114 ; WX 1375 ; N r ; G 47
+U 115 ; WX 1375 ; N s ; G 48
+U 116 ; WX 1375 ; N t ; G 49
+U 117 ; WX 1375 ; N u ; G 50
+U 118 ; WX 1375 ; N v ; G 51
+U 119 ; WX 1375 ; N w ; G 52
+U 120 ; WX 1375 ; N x ; G 53
+U 121 ; WX 1375 ; N y ; G 54
+U 122 ; WX 1375 ; N z ; G 55
+EndCharMetrics
+EndFontMetrics

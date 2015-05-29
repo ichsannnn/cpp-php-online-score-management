@@ -1,0 +1,271 @@
+.table:after /* force a container to fit around floated items */
+{
+	content: "\0020";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.grpelem /* a child element of a group */
+{
+	display: inline;
+	float: left;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 209px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 815px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
+#u116
+{
+	z-index: 2;
+	width: 31px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 9px;
+}
+
+#u117
+{
+	z-index: 3;
+	width: 149px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 41px;
+}
+
+#u155
+{
+	z-index: 4;
+	width: 149px;
+	height: 39px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 191px;
+}
+
+#u156
+{
+	z-index: 5;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 191px;
+}
+
+#u157
+{
+	z-index: 6;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 266px;
+}
+
+#u158
+{
+	z-index: 7;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+	left: 191px;
+}
+
+#u159
+{
+	z-index: 8;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+	left: 266px;
+}
+
+#u160
+{
+	z-index: 9;
+	width: 149px;
+	height: 39px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 341px;
+}
+
+#u161
+{
+	z-index: 10;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 341px;
+}
+
+#u162
+{
+	z-index: 11;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 416px;
+}
+
+#u163
+{
+	z-index: 12;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+	left: 341px;
+}
+
+#u164
+{
+	z-index: 13;
+	width: 74px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+	left: 416px;
+}
+
+#u165
+{
+	z-index: 14;
+	width: 199px;
+	height: 39px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 491px;
+}
+
+#u166
+{
+	z-index: 15;
+	width: 99px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 491px;
+}
+
+#u167
+{
+	z-index: 16;
+	width: 99px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+	left: 491px;
+}
+
+#u168
+{
+	z-index: 17;
+	width: 99px;
+	height: 39px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 591px;
+}
